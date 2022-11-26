@@ -1,0 +1,23 @@
+{
+  "name": "learn-graphql-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "graphql": "^15.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/outstandyy/learn-graphql-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/outstandyy/learn-graphql-nodejs/issues"
+  },
+  "homepage": "https://github.com/outstandyy/learn-graphql-nodejs#readme"
+}
